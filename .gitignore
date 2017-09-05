@@ -8,5 +8,5 @@
 #environment variable
 .env
 
-
-public/idea_box/knexfile.js
+#files to ignore 
+/knexfile.js
