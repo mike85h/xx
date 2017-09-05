@@ -9,4 +9,4 @@
 .env
 
 
-./knexfile.js
+public/idea_box/knexfile.js
